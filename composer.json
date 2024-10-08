@@ -1,0 +1,16 @@
+{
+    "name": "gauthiera/jeu-pendu",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GAUTHIER Alexandre",
+            "email": "alexgau70@gmail.com"
+        }
+    ],
+    "require": {}
+}
